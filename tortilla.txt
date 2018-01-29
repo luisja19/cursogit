@@ -1,3 +1,6 @@
 Paso 1: Pedir una tortilla a Juan Luengo
 Paso 1.5: Quitar sal
 Paso 2: Comer Tortilla
+
+Precio tortilla: 5 euros
+Precio Juan: No tiene precio
