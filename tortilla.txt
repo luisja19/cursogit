@@ -5,3 +5,5 @@ Paso 2: Comer Tortilla
 Precio tortilla: 5 euros
 Precio IVA: 25 yenes
 Precio Juan: No tiene precio
+descuento 10%
+4,5€
